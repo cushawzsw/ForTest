@@ -1,0 +1,7 @@
+R43 delete
+C200 delete
+F1 delete , BLV - PWR
+F3 -> F3 + IN4148
+R202 5.1K -> 100R
+R150 100K -> 300K
+R10,R16 100K -> 47K

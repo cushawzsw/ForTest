@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=Connection.SchDoc
+Record=SheetSymbol|SourceDocument=Connection.SchDoc|Designator=BLNTest|SchDesignator=BLNTest|FileName=BlnTest.SchDoc|SymbolType=Normal|RawFileName=BlnTest.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Connection.SchDoc|Designator=IOTest|SchDesignator=IOTest|FileName=IOTest.SchDoc|SymbolType=Normal|RawFileName=IOTest.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Connection.SchDoc|Designator=MCU|SchDesignator=MCU|FileName=MCU.SchDoc|SymbolType=Normal|RawFileName=MCU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Connection.SchDoc|Designator=POWER|SchDesignator=POWER|FileName=Power.SchDoc|SymbolType=Normal|RawFileName=Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
